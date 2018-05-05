@@ -85,4 +85,5 @@ First, image is captured and current steering angle, throttle, and velocity from
 6) Run the simulator in unity3D, then run the program "Drive.py" from spyder. Car will start driving by itself.
 
 
-To know more about Convolutional Neural Network, check [this](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/) github page.
+To know more about Convolutional Neural Network, check [this](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/) github page.<br/>
+Check [this](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) and [this](http://cs231n.stanford.edu/reports/2017/pdfs/626.pdf) for Self Driving Car.
