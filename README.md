@@ -4,6 +4,11 @@ This project is base on Udacity's Self-Driving Car Simulator.
 
 ![sdccar](https://user-images.githubusercontent.com/31696557/39665376-bb419dd4-50b0-11e8-83b4-e85b2eec666b.jpg)
 
+## How it is going to look(Video) !
+
+[![](http://img.youtube.com/vi/ei6ZeWNG_wE/0.jpg)](http://www.youtube.com/watch?v=ei6ZeWNG_wE "SDC")
+
+
 
 ## Dependencies
 
