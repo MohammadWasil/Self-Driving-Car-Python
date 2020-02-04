@@ -40,6 +40,10 @@ It would look something like this:
 
 Also, you need to have Unity3D game engine, which can be downloaded from [here](https://unity3d.com/) and install it.
 
+To install Tensorflow, follow this Youtube video:
+
+[![Install Tensorflow-GPU in 5 mins - EASY!!](http://img.youtube.com/vi/tPq6NIboLSc/0.jpg)](http://www.youtube.com/watch?v=tPq6NIboLSc "Install Tensorflow-GPU in 5 mins - EASY!!")
+
 ## Working with Unity3D Game Engine.
 1) Launch Unity3D Game Engine.
 2) Select "Open Project", select "Self Driving Car", from this project.
