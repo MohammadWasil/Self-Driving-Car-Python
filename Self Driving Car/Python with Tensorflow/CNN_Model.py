@@ -16,9 +16,9 @@ import numpy as np
 image_input_array = []
 
 def LoadData():  
-    image_input_array2 = np.zeros((4536, 66, 200,3))         # Replace the value of 2116 with the number of images, you are going to train.
+    image_input_array2 = np.zeros((4536, 66, 200,3))         # Replace the value of 4536 with the number of images, you are going to train.
     URL = r"D:\ML\Unity-ML\sdcdata_1.csv"		        # Load your csv file.
-    url_image = r"D:\\ML\\Unity-ML\\SDC\\"
+    url_image = r"D:\\ML\\Unity-ML\\SDC\\"              # path of training images.
     
     data = p.read_csv(URL)
     
