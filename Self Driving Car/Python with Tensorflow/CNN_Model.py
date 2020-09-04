@@ -82,7 +82,7 @@ def LoadData():
     #print(image_input_list.shape)
     #print(len(image_input_list))
     
-    validation_size = 0.15          # validation is 0.20, so the size of the X and Y validaion will be 20% of the X and Y(actual size of the array)
+    validation_size = 0.15          # validation is 0.15, so the size of the X and Y validaion will be 15% of the X and Y(actual size of the array)
     seed = 7
     
     #image_input_list = image_input_list.reshape(1, 420, 750, 3, )
