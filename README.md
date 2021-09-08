@@ -6,8 +6,6 @@ This project is base on Udacity's Self-Driving Car Simulator.
 
 ## How it is going to look(Video) !
 
-[![](http://img.youtube.com/vi/ei6ZeWNG_wE/0.jpg)](http://www.youtube.com/watch?v=ei6ZeWNG_wE "SDC")
-
 [![](http://img.youtube.com/vi/UmtLtpY1XBs/0.jpg)](https://www.youtube.com/watch?v=UmtLtpY1XBs "SDC")
 
 
