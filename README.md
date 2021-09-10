@@ -44,6 +44,26 @@ To install Tensorflow, follow this Youtube video:
 
 [![Install Tensorflow-GPU in 5 mins - EASY!!](http://img.youtube.com/vi/tPq6NIboLSc/0.jpg)](http://www.youtube.com/watch?v=tPq6NIboLSc "Install Tensorflow-GPU in 5 mins - EASY!!")
 
+### Steps
+1. Create an env. <Br/>
+```conda create -n tensorflow_gpu python=3.7```
+
+2. Activate the env<Br/>
+```conda activate tensorflow_gpu```
+
+3. Install jupyter beforehand<Br/>
+```conda install -c anaconda jupyter```
+
+4. Install the kernel<Br/>
+```pip install ipykernel```<Br/>
+```python -m ipykernel install --user --name tensorflow_gpu --display-name "tensorflow_gpu"```
+
+6. Install tensorflow gpu<Br/>
+```conda install -c anaconda tensorflow-gpu```
+
+7. And, finally, install Keras<Br/>
+```pip install keras```
+
 ## Working with Unity3D Game Engine.
 1) Launch Unity3D Game Engine.
 2) Select "Open Project", select "Self Driving Car", from this project.
