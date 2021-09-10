@@ -51,7 +51,7 @@ To install Tensorflow, follow this Youtube video:
 2. Activate the env<Br/>
 ```conda activate tensorflow_gpu```
 
-3. Install jupyter beforehand<Br/>
+3. Install jupyter beforehand (since it downgrade the tensorflow version, if it is executed after tensorflow has been installed)<Br/>
 ```conda install -c anaconda jupyter```
 
 4. Install the kernel<Br/>
