@@ -60,7 +60,7 @@ To install Tensorflow, follow this Youtube video:
 5. Register your environment<Br/>
 ```python -m ipykernel install --user --name tensorflow_gpu --display-name "tensorflow_gpu"```
 
-6. Install tensorflow gpu<Br/>
+6. Install [tensorflow gpu](https://anaconda.org/anaconda/tensorflow-gpu)<Br/>
 ```conda install -c anaconda tensorflow-gpu```
 
 7. And, finally, install Keras<Br/>
