@@ -13,6 +13,7 @@ This project is base on Udacity's Self-Driving Car Simulator.
 
 You can install depedencies by running the following command in Anaconda prompt:
 
+### With Theano Backend
 ```
 # OpenCV
 conda install -c conda-forge opencv
@@ -39,6 +40,8 @@ It would look something like this:
 ```
 
 Also, you need to have Unity3D game engine, which can be downloaded from [here](https://unity3d.com/) and install it.
+
+### With Tensorflow Backend
 
 To install Tensorflow, follow this Youtube video:
 
