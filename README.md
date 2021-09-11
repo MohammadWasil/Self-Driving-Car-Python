@@ -45,17 +45,19 @@ To install Tensorflow, follow this Youtube video:
 [![Install Tensorflow-GPU in 5 mins - EASY!!](http://img.youtube.com/vi/tPq6NIboLSc/0.jpg)](http://www.youtube.com/watch?v=tPq6NIboLSc "Install Tensorflow-GPU in 5 mins - EASY!!")
 
 ### Steps
-1. Create an env. <Br/>
+1. Create an environment <Br/>
 ```conda create -n tensorflow_gpu python=3.7```
 
-2. Activate the env<Br/>
+2. Activate the environment <Br/>
 ```conda activate tensorflow_gpu```
 
 3. Install jupyter beforehand (since it downgrade the tensorflow version, if it is executed after tensorflow has been installed)<Br/>
 ```conda install -c anaconda jupyter```
 
-4. Install the kernel<Br/>
-```pip install ipykernel```<Br/>
+4. Install the ipykernel<Br/>
+```pip install ipykernel```
+
+5. Register your environment<Br/>
 ```python -m ipykernel install --user --name tensorflow_gpu --display-name "tensorflow_gpu"```
 
 6. Install tensorflow gpu<Br/>
